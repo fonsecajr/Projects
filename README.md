@@ -1,6 +1,6 @@
 # Projects
 
-Projects from the oven, look at them, they are so HOT!
+Projects in the oven, look at them, they are so HOT!
 
 
 AliceVision_Photogrametry.ipynb	is the AliceVision aplication for in cloud GPU Photogrametry studies.
