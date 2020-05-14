@@ -7,6 +7,6 @@ AliceVision_Photogrametry.ipynb	is the AliceVision aplication for in cloud GPU P
 
 Ações_Analises.ipynb	Brazilian picked stocks analisis studies.
 
-Ações_Analises2_porfolio_x_index	Brazilian picked stocks analisis studies.
+Ações_Analises2.ipynd  Brazilian picked stocks analisis studies.
 
 FIIs_aovivo_△.ipynb  Brazilian Reit options studies getting data from gsheet.
