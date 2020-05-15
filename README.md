@@ -9,4 +9,6 @@ Ações_Analises.ipynb	Brazilian picked stocks analisis studies.
 
 Ações_Analises2.ipynd  Brazilian picked stocks analisis studies.
 
+Ações_Analises3.ipynd   Brazilian picked stocks analisis studies using pyfolio #bugged.
+
 FIIs_aovivo_△.ipynb  Brazilian Reit options studies getting data from gsheet.
