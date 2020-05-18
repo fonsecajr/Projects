@@ -13,4 +13,6 @@ Ações_Analises3.ipynd   Brazilian picked stocks analisis studies using pyfolio
 
 Ações_Analises4.ipynd   Brazilian random picked stoks on monkey portfolio model for perfomance analisis studies.
 
+Ações_Analises5.ipynd   Brazilian Stock Market studies on deviation, median and -12% returns over the time(data).
+
 FIIs_aovivo_△.ipynb  Brazilian Reit options studies getting data from gsheet.
