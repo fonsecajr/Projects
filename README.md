@@ -15,6 +15,6 @@ Ações_Analises4.ipynd   Brazilian random picked stoks on monkey portfolio mode
 
 Ações_Analises5.ipynd   Brazilian Stock Market studies on deviation, median and -12% returns over the time(data).
 
-Ações_Analises6.ipynd   Brazilian Stocks listed according to Joel Grenblatt magic formula on sorting.
+Ações_Analises6.ipynd   Brazilian Stocks listed according to Joel Grenblatt magic formula.
 
 FIIs_aovivo_△.ipynb  Brazilian Reit options studies getting data from gsheet.
