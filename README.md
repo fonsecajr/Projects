@@ -17,4 +17,6 @@ Projects in the oven, look at them, they are so HOT!
 
 **Ações_Analises6.ipynd**   Brazilian Stocks listed anaccording to the Joel Grenblatt magic formula. (Scraping method)
 
+**AçÕes_Analises7.ipynd**   Brazilian picked stocks analisis studies on its perfomance. (Alpha Vantage API)
+
 **FIIs_aovivo_△.ipynb**  Brazilian Reit options studies getting data from gsheet. (Gshet API)
