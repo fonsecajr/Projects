@@ -3,7 +3,7 @@
 Projects in the oven, look at them, they are so HOT!
 
 
-AliceVision_Photogrametry.ipynb	is the AliceVision aplication for in cloud GPU Photogrametry studies.
+**AliceVision_Photogrametry.ipynb**	is the AliceVision aplication for in cloud GPU Photogrametry studies.
 
 **Ações_Analises.ipynb**	  Brazilian picked stocks analisis studies on its perfomance. (Yahoo Finance API)
 
