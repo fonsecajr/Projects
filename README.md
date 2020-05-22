@@ -19,4 +19,6 @@ Projects in the oven, look at them, they are so HOT!
 
 **AçÕes_Analises7.ipynd**   Brazilian picked stocks analisis studies on its perfomance. (Alpha Vantage API)
 
+**Séries_AnalisesxAções_Analises8.ipynb** Brazilian Price indexes studies x Price indexes confrontation on Brazilian stock index. (SGS API + Yahoo Dinance API)
+
 **FIIs_aovivo_△.ipynb**  Brazilian Reit options studies getting data from gsheet. (Gshet API)
