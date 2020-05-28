@@ -10,7 +10,7 @@ Photogrametry Studies
 
 BigData Studies
 
-**Ações_Analises.ipynb**	  Brazilian picked stocks analisis studies on its perfomance. (Yahoo Finance API)
+**Ações_Analises.ipynb**	  Brazilian picked stocks analisis studies on its perfomances. (Yahoo Finance API)
 
 **Ações_Analises2.ipynd**   Brazilian picked stocks analisis studies on moving avarage, also defining intervals. (Yahoo Finance API)
 
@@ -18,12 +18,14 @@ BigData Studies
 
 **Ações_Analises4.ipynd**   Brazilian random picked stoks on monkey portfolio model for perfomance analisis studies. (Yahoo Finance API)
 
-**Ações_Analises5.ipynd**   Brazilian Stock Market studies on deviation, median and -12% returns over the time(data). (Yahoo Finance API)
+**Ações_Analises5.ipynd**   Brazilian stock market studies on deviation, median and -12% returns over the time(data). (Yahoo Finance API)
 
 **Ações_Analises6.ipynd**   Brazilian Stocks listed anaccording to the Joel Grenblatt magic formula. (Scraping method)
 
 **AçÕes_Analises7.ipynd**   Brazilian picked stocks analisis studies on its perfomance. (Alpha Vantage API)
 
 **Séries_AnalisesxAções_Analises8.ipynb** Brazilian Price indexes studies x Price indexes confrontation on Brazilian stock index. (SGS API + Yahoo Dinance API)
+
+**Fundos_Analises.ipynd**   Brazilian picked Funds studies in its perfomances. (Investpy API)
 
 **FIIs_aovivo_△.ipynb**  Brazilian Reit options studies getting data from gsheet. (Gshet API)
