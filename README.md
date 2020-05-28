@@ -7,6 +7,9 @@ Photogrametry Studies
 
 **AliceVision_Photogrametry.ipynb**	is the AliceVision aplication for in cloud GPU Photogrametry studies.
 
+Mathematics Studies
+
+**Mandelbrot.ipynb**  Mandelbrot set estudies. (TensorFlow API)
 
 BigData Studies
 
