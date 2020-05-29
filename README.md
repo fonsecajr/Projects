@@ -29,7 +29,7 @@ BigData Studies
 
 **Séries_AnalisesxAções_Analises8.ipynb** Brazilian Price indexes studies x Price indexes confrontation on Brazilian stock index. (SGS API + Yahoo Dinance API)
 
-**Séries_AnalisesxAções_Analises9.ipynb** Brazilian Stocks Market Indexes(including USD and EUR reflections) x Picked Stocks analysis. (Investpy API) 
+**Séries_Analises2xAções_Analises9.ipynb** Brazilian Stocks Market Indexes(including USD and EUR reflections) x Picked Stocks analysis. (Investpy API) 
 
 **Fundos_Analises.ipynd**   Brazilian picked Funds studies on its perfomances. (Investpy API)
 
