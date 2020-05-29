@@ -33,4 +33,6 @@ BigData Studies
 
 **Fundos_Analises.ipynd**   Brazilian picked Funds studies on its perfomances. (Investpy API)
 
+**Fundos_Analises2.ipynb**  Brazilian picked Funds studies on its perfomances. (Investpy API)
+
 **FIIs_aovivo_△.ipynb**  Brazilian Reit options studies getting data from gsheet. (Gshet API)
