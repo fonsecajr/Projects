@@ -23,13 +23,15 @@ BigData Studies
 
 **Ações_Analises5.ipynd**   Brazilian stock market studies on deviation, median and -12% returns over the time(data). (Yahoo Finance API)
 
-**Ações_Analises6.ipynd**   Brazilian picked stocks listed according to the Joel Grenblatt magic formula. (Scraping method)
+**Ações_Analises6.ipynd**   Brazilian picked stocks listed according to the Joel Grenblatt magic formula. (Panda scraping method)
 
 **AçÕes_Analises7.ipynd**   Brazilian picked stocks analisis studies on its perfomance. (Alpha Vantage API)
 
 **Séries_AnalisesxAções_Analises8.ipynb** Brazilian Price indexes studies x Price indexes confrontation on Brazilian stock index. (SGS API + Yahoo Finance API)
 
-**Séries_Analises2xAções_Analises9.ipynb** Brazilian Stocks Market Indexes(including USD and EUR reflections) x Picked stocks analysis. (Investpy API) 
+**Séries_Analises2xAções_Analises9.ipynb** Brazilian Stocks Market Indexes(including USD and EUR reflections) x Picked stocks analysis.(Investpy API) 
+
+**Analises_Ações10.ipynb**  Brazilian stock market list and data preservation on cloud. (Gsheet API)(Panda scraping method)(Yahoo Finance API)
 
 **Fundos_Analises.ipynd**   Brazilian picked Funds studies on its perfomances. (Investpy API)
 
