@@ -33,7 +33,7 @@ BigData Studies
 
 **Fundos_Analises.ipynd**   Brazilian picked Funds studies on its perfomances. (Investpy API)
 
-**Fundos_Analises2.ipynb**  Brazilian picked Funds studies on its perfomances. (Investpy API)
+**Fundos_Analises2.ipynb**  Brazilian picked Funds studies on its perfomances. (CVM Data lake)
 
 **Juros_Analises.ipynb** Brazilian Bonds studies on its perfomances. (Investpy API)(SGS API)
 
