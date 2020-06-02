@@ -40,3 +40,5 @@ BigData Studies
 **Juros_Analises.ipynb** Brazilian Bonds studies on its perfomances. (Investpy API)(SGS API)
 
 **FIIs_aovivo_△.ipynb**  Brazilian Reit options studies getting data from gsheet. (Gshet API)
+
+**Google_Drive_101.ipynb** Exercises on Gsheet conection and handling. (Gshet API)
