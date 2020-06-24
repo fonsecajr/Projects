@@ -36,6 +36,8 @@ BigData Studies
 
 **Analises_Ações10.ipynb**  Brazilian stock market list and data preservation on cloud. (Gsheet API)(Panda scraping method)(Yahoo Finance API)
 
+**Ações_Analises11.ipynb** Brazilian stock market list, sort, comparison and data preservation on dowanload in Excell compatible formats (Gsheet API)(Panda scraping method)(Yahoo Finance API)
+
 **Fundos_Analises.ipynd**   Brazilian picked Funds studies on its perfomances. (Investpy API)
 
 **Fundos_Analises2.ipynb**  Brazilian picked Funds studies on its perfomances. (CVM Data lake)
