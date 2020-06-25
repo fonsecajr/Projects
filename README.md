@@ -8,7 +8,9 @@ Process Tools
 
 Photogrametry Studies
 
-**AliceVision_Photogrametry.ipynb**	is the AliceVision aplication for in cloud GPU Photogrametry studies.
+**AliceVision_Photogrametry.ipynb**	is the AliceVision aplication for in-cloud GPU Photogrametry studies.
+
+**PIFuHD_Demo.ipynb** is the Facebook application for in-cloud GPU Photogrametry studies.
 
 Mathematics Studies
 
