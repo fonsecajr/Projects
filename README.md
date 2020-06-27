@@ -38,7 +38,7 @@ BigData Studies
 
 **Analises_Ações10.ipynb**  Brazilian stock market list and data preservation on cloud. (Gsheet API)(Panda scraping method)(Yahoo Finance API)
 
-**Source_Ações_Analises11** Brazilian stock market studies on Google Data Studio Report Manipulation (Gsheet API)(Pandas Scraping method) + (Google Studio) at https://datastudio.google.com/open/1UUxtQ_VHSnVZvheb5qp9kL_O4SBccbXE?usp=sharing Unfurtnunfortunately, Google is not allowing Data Studio reports to be share wisely. [Source update is ok, Report is under making]
+**Source_Ações_Analises11** Brazilian stock market studies on Google Data Studio Report Manipulation (Gsheet API)(Pandas Scraping method) + (Google Studio) at [https://datastudio.google.com/u/1/reporting/1ATzLimQ_1kL3dXeKFbrKK15BUDU_SF7M/] Unfurtnunfortunately, Google is not allowing Data Studio reports to be share wisely.
 
 **Fundos_Analises.ipynd**   Brazilian picked Funds studies on its perfomances. (Investpy API)
 
