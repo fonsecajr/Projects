@@ -22,7 +22,7 @@ BigData Studies
 
 **Ações_Analises2.ipynd**   Brazilian picked stocks analisis studies on moving avarage, also defining intervals. (Yahoo Finance API)
 
-**Ações_Analises3.ipynd**   Brazilian picked stocks analisis studies using pyfolio aiming the backtesting. (Yahoo Finance API) [Resolvido]
+**Ações_Analises3.ipynd**   Brazilian picked stocks analisis studies using pyfolio aiming the backtesting. (Yahoo Finance API)
 
 **Ações_Analises4.ipynd**   Brazilian random picked stoks on monkey portfolio model for perfomance analisis studies. (Yahoo Finance API)
 
@@ -38,7 +38,7 @@ BigData Studies
 
 **Analises_Ações10.ipynb**  Brazilian stock market list and data preservation on cloud. (Gsheet API)(Panda scraping method)(Yahoo Finance API)
 
-**Source_Ações_Analises11** Brazilian stock market studies on Google Data Studio Report Manipulation (Gsheet API)(Pandas Scraping method) + (Google Studio) at [https://datastudio.google.com/u/1/reporting/1ATzLimQ_1kL3dXeKFbrKK15BUDU_SF7M/] Unfurtnunfortunately, Google is not allowing Data Studio reports to be share wisely.
+**Source_Ações_Analises11** Brazilian stock market studies on Google Data Studio Report Manipulation (Gsheet API)(Pandas Scraping method) + (Google Studio) at [https://datastudio.google.com/u/1/reporting/1ATzLimQ_1kL3dXeKFbrKK15BUDU_SF7M/] Unfortunately, Google is not allowing Data Studio reports to be share wisely.
 
 **Fundos_Analises.ipynd**   Brazilian picked Funds studies on its perfomances. (Investpy API)
 
