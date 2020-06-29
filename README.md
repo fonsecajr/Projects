@@ -48,6 +48,6 @@ BigData Studies
 
 **FIIs_aovivo_△.ipynb**  Brazilian Reit options studies getting data from gsheet. (Gshet API)
 
-**FIIs.html** Brazilian Reit options studies in http aplication for Gsheet. [andrefonseca.epizy.com/fii/] (Gshet scraping method) 
+**FIIs.html** Brazilian Reit options studies in http aplication for Gsheet. [https://andrefonseca.epizy.com/fii/] (Gshet scraping method) 
 
 **Google_Drive_101.ipynb** Exercises on Gsheet conection and handling. (Gshet API)
