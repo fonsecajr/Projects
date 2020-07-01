@@ -55,3 +55,5 @@ BigData Studies
 **FIIs.html** Brazilian Reit options studies in http aplication for Gsheet. [https://andrefonseca.epizy.com/fii/] (Gshet scraping method) 
 
 **Google_Drive_101.ipynb** Exercises on Gsheet conection and handling. (Gshet API)
+
+**Selenium_101.ipynb** Exercises on Selenium navigation and handling. (Selenium API)
