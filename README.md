@@ -2,6 +2,7 @@
 
 Projects in the oven, look at them, they are so HOT!
 
+
 Process Tools
 
 **Hyper-customized Handwriting tool for free using LibreOffice impress.** [https://telegra.ph/Hyper-customized-Handwriting-tool-for-free-using-LibreOffice-impress-06-04] + **preview.odp**
@@ -12,20 +13,22 @@ Photogrametry Studies
 
 **PIFuHD_Demo.ipynb** is the Facebook application for in-cloud GPU Photogrametry studies.
 
+
 Blockchain Studies
 
 **/Kryptotag** [https://github.com/fonsecajr/Kryptotag] KRYPTOTAG: ETIQUETA BASEADA NO PROTOCOLO ETHEREUM BLOCKCHAIN PARA ÓRTESES, PRÓTESES E MATERIAIS ESPECIAIS (OPME). Master in Science product (http://dcir.sites.unifesp.br/mp/index.php/discentes) under PHD Medical Doctor Professor Mrs. Lydia Masako Ferreira orientation and PHD Medical Doctor Mrs. Elaine Horibe Song co-orientation. Please, fell welcome to access the products: KRYPTOTAG: LABEL BASED ON BLOCKCHAIN ETHEREUM PROTOCOL FOR ORTHROS, PROSTHESES AND SPECIAL MATERIALS (OPME) thesis, in Portuguese. http://www.kryptotag.com.br and http://dcir.sites.unifesp.br/mp/images/imagens/teses/2018_07_MP_ANDRE-LUIZ-TORRES-FONSECA-JUNIOR.pdf).
 
+
 Android Development Studies
 
-**com.cura.altf.helloworld-v1.0.apk** Cura Unifesp is a medic professional care uberization app delivered as proof of concept and work. [https://apkpure.com/fr/cura-profissionais-da-sa%C3%BAde/com.cura.altf.helloworld] previus at Google PlayStore. Find a healthcare professional near you now ❤ With just three steps, healing will help you find the Healthcare Professional closest to you without you having to register. Our mission is to facilitate your meeting with your nearest Healthcare Professional without you having to ask around.💃❤
+**com.cura.altf.helloworld-v1.0.apk** Cura Unifesp is a healthcare professional care uberization app delivered as proof of concept and work. [https://apkpure.com/fr/cura-profissionais-da-sa%C3%BAde/com.cura.altf.helloworld] previus at Google PlayStore. Find a healthcare professional near you now ❤ With just three steps, healing will help you find the Healthcare Professional closest to you without you having to register. Our mission is to facilitate your meeting with your nearest Healthcare Professional without you having to ask around.💃❤
 The project of André Luiz Torres da Fonseca Júnior is the result of a project by Dr. Lydia Massako Ferreira, co-supervised by Elaine Horibe Song, presented to the Professional Master in Science, Technology and Management applied to Tissue Regeneration at the Escola Paulista de Medicina da Universidade Federal de São Paulo. All rights reserved.
 
-Translated with www.DeepL.com/Translator (free version)
 
 Mathematics Studies
 
 **Mandelbrot.ipynb**  Mandelbrot set estudies. (TensorFlow API)
+
 
 BigData Studies
 
