@@ -28,7 +28,7 @@ The project of André Luiz Torres da Fonseca Júnior is the result of a oriented
 
 Mathematics Studies
 
-**Mandelbrot.ipynb**  Mandelbrot set estudies. (TensorFlow API)
+**Mandelbrot.ipynb**  Mandelbrot set studies. (TensorFlow API)
 
 
 BigData Studies
