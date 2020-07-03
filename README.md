@@ -21,7 +21,8 @@ Blockchain Studies
 
 Android Development Studies
 
-**com.cura.altf.helloworld-v1.0.apk** Cura Unifesp is a healthcare professional care uberization app delivered as proof of concept and work. [https://apkpure.com/fr/cura-profissionais-da-sa%C3%BAde/com.cura.altf.helloworld] previus at Google PlayStore. Find a healthcare professional near you now ❤ With just three steps, healing will help you find the Healthcare Professional closest to you without you having to register. Our mission is to facilitate your meeting with your nearest Healthcare Professional without you having to ask around.💃❤
+**com.cura.altf.helloworld-v1.0.apk** Cura Unifesp is a healthcare professional care uberization app delivered as proof of concept and work. [https://apkpure.com/fr/cura-profissionais-da-sa%C3%BAde/com.cura.altf.helloworld] previus at Google PlayStore. 
+Find a healthcare professional near you now ❤ With just three steps, healing will help you find the Healthcare Professional closest to you without you having to register. Our mission is to facilitate your meeting with your nearest Healthcare Professional without you having to ask around.💃❤
 The project of André Luiz Torres da Fonseca Júnior is the result of a project by Dr. Lydia Massako Ferreira, co-supervised by Elaine Horibe Song, presented to the Professional Master in Science, Technology and Management applied to Tissue Regeneration at the Escola Paulista de Medicina da Universidade Federal de São Paulo. All rights reserved.
 
 
