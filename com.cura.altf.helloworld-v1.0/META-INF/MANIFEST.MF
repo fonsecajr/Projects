@@ -1,0 +1,85 @@
+Manifest-Version: 1.0
+Built-By: 1.3.0
+Created-By: Android Gradle 1.3.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: xahbIrCeu+VVj55nX4oRrAkVRkg=
+
+Name: assets/www/images/hamburger.svg
+SHA1-Digest: si4Zk8np467cawFwsaVG/9AxlW0=
+
+Name: assets/www/service-worker.js
+SHA1-Digest: VxJdTxh2jZxpaBCfVLmtAj9krgs=
+
+Name: assets/www/images/touch/icon-128x128.png
+SHA1-Digest: QA/4thvB1QsyxRXUSxWwjn0vhHE=
+
+Name: assets/www/scripts/main.js
+SHA1-Digest: t0zFb0yt938+Y/KwOYVuQ3dKkCg=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: UGsd9v3GI55M281tzOxfF8ZeEFI=
+
+Name: assets/www/basic.html
+SHA1-Digest: w2adiUEjxvXzAeIYbVc4RLFDrjM=
+
+Name: assets/www/robots.txt
+SHA1-Digest: QlL8AoHJli2sZ4PgDjDLRJx9SMI=
+
+Name: assets/www/images/touch/ms-touch-icon-144x144-precomposed.png
+SHA1-Digest: 5DAtASuADK0eqzkDiybHKr+iL5w=
+
+Name: res/menu/menu_main.xml
+SHA1-Digest: uBOTu0nTVJz/R8XI+XTBCKMoslI=
+
+Name: assets/www/manifest.json
+SHA1-Digest: 6YUGHnotQBp3QFxHfYbe1PImkjg=
+
+Name: assets/www/humans.txt
+SHA1-Digest: U8eQo22jQJeMRy/BH6vM+bNCjX8=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: zqN4O8Gxg46Nnlv47MZzwsaUl6Y=
+
+Name: assets/www/index.html
+SHA1-Digest: nB4UPDW0ZgvErZqAYwZlhTbEAD0=
+
+Name: assets/www/images/touch/apple-touch-icon.png
+SHA1-Digest: /ykIHzaU/p3Ji1c715E43dOLsSQ=
+
+Name: assets/www/LICENSE
+SHA1-Digest: rVJcwelOkiQnWYlkepalLJYfIr8=
+
+Name: assets/www/scripts/sw/runtime-caching.js
+SHA1-Digest: oq+8mZFIrmLCewAHR9nD4xnAE6o=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: ROcqVsvdtNrIDITNYNYIg3tKQns=
+
+Name: assets/www/manifest.webapp
+SHA1-Digest: RMJ/VASRPFPcxSXe5OUT6UbxNPQ=
+
+Name: assets/www/styles/main.css
+SHA1-Digest: AOHZF8uBIt/9v3Zx3scy3tP9RHU=
+
+Name: assets/www/images/touch/chrome-touch-icon-192x192.png
+SHA1-Digest: 6WC/pHl1ehHMPaGZG4nRmJcJ+4Y=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: iCKxeD5hfQG0YUnYhdSh4YU+Kws=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: gxh8G03Jf9CQlNG10o3hVtx3sc0=
+
+Name: resources.arsc
+SHA1-Digest: YAV4MmmfUftQ1LHCulzRc7XNs5c=
+
+Name: assets/www/favicon.ico
+SHA1-Digest: dai0iXs7h8OJWyzhtnWGDSZOn3g=
+
+Name: classes.dex
+SHA1-Digest: 6LLf9yXf23DkryLVTDordWCAMIg=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: +jyar8ZaIQKNaOR4Uz9kS0M614Q=
+
