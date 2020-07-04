@@ -16,14 +16,14 @@ Photogrametry Studies
 
 Blockchain Studies
 
-**/Kryptotag** [https://github.com/fonsecajr/Kryptotag] KRYPTOTAG: ETIQUETA BASEADA NO PROTOCOLO ETHEREUM BLOCKCHAIN PARA ÓRTESES, PRÓTESES E MATERIAIS ESPECIAIS (OPME). Master in Science product (http://dcir.sites.unifesp.br/mp/index.php/discentes) under PHD Medical Doctor Professor Mrs. Lydia Masako Ferreira orientation and PHD Medical Doctor Mrs. Elaine Horibe Song co-orientation. Please, fell welcome to access the products: KRYPTOTAG: LABEL BASED ON BLOCKCHAIN ETHEREUM PROTOCOL FOR ORTHROS, PROSTHESES AND SPECIAL MATERIALS (OPME) thesis, in Portuguese. http://www.kryptotag.com.br and http://dcir.sites.unifesp.br/mp/images/imagens/teses/2018_07_MP_ANDRE-LUIZ-TORRES-FONSECA-JUNIOR.pdf). (Java Script)(HTML)(Solidity)
+**/Kryptotag** [https://github.com/fonsecajr/Kryptotag] KRYPTOTAG: ETIQUETA BASEADA NO PROTOCOLO ETHEREUM BLOCKCHAIN PARA ÓRTESES, PRÓTESES E MATERIAIS ESPECIAIS (OPME). Master in Science product (http://dcir.sites.unifesp.br/mp/index.php/discentes) under PHD Medical Doctor Professor Mrs. Lydia Masako Ferreira orientation and PHD Medical Doctor Mrs. Elaine Horibe Song co-orientation. Please, fell welcome to access the products: KRYPTOTAG: LABEL BASED ON BLOCKCHAIN ETHEREUM PROTOCOL FOR ORTHROS, PROSTHESES AND SPECIAL MATERIALS (OPME) thesis, in Portuguese. http://www.kryptotag.com.br and http://dcir.sites.unifesp.br/mp/images/imagens/teses/2018_07_MP_ANDRE-LUIZ-TORRES-FONSECA-JUNIOR.pdf). (Web backend)(Java Script)(HTML)(Solidity)
 
 
 Android Development Studies
 
 **/com.cura.altf.helloworld-v1.0** [https://github.com/fonsecajr/Projects/tree/master/com.cura.altf.helloworld-v1.0] Cura is a healthcare professional uberization app delivered as proof of concept and work. [https://apkpure.com/fr/cura-profissionais-da-sa%C3%BAde/com.cura.altf.helloworld] previus at Google PlayStore. 
 Find a healthcare professional near you now ❤ With just three steps, Cura will help you find the Healthcare Professional closest to you without you having to register. Our mission is to facilitate your meeting with your nearest Healthcare Professional without you having to ask around. ❤
-The project of André Luiz Torres da Fonseca Júnior is the result of a oriented project by Dr. Lydia Massako Ferreira, co-supervised by Dr. Elaine Horibe Song, presented to the Professional Master in Science, Technology and Management at the Escola Paulista de Medicina da Universidade Federal de São Paulo. All rights reserved. (Html)(SQL)(WordPress)
+The project of André Luiz Torres da Fonseca Júnior is the result of a oriented project by Dr. Lydia Massako Ferreira, co-supervised by Dr. Elaine Horibe Song, presented to the Professional Master in Science, Technology and Management at the Escola Paulista de Medicina da Universidade Federal de São Paulo. All rights reserved. (Web backend)(SQL)(WordPress)(Html)
 
 
 Mathematics Studies
@@ -63,7 +63,7 @@ BigData Studies
 
 **FIIs_aovivo_△.ipynb**  Brazilian Reit options studies getting data from gsheet. (Gshet API)(Python)
 
-**FIIs.html** Brazilian Reit options studies in http aplication for Gsheet. [https://andrefonseca.epizy.com/fii/] (Gshet scraping method)(Html)
+**FIIs.html** Brazilian Reit options studies in http aplication for Gsheet. [https://andrefonseca.epizy.com/fii/] (Web backend)(Html)(Gshet scraping method)
 
 **Google_Drive_101.ipynb** Exercises on Gsheet conection and handling. (Gshet API)(Python)
 
