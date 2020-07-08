@@ -68,3 +68,5 @@ BigData Studies
 **Google_Drive_101.ipynb** Exercises on Gsheet conection and handling. (Gshet API)(Python)
 
 **Selenium_101.ipynb** Exercises on Selenium navigation and handling. (Selenium API)(Python)
+
+**ftp_download_to_today_folder.ipynb** FTP fetching lastest modificated file, downloading and salving it in today yyyy/mmmm/dd format created subfolders.
