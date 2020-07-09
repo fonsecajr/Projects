@@ -69,6 +69,8 @@ BigData Studies
 
 **Selenium_101.ipynb** Exercises on Selenium navigation and handling. (Selenium API)(Python)
 
-**ftp_download_to_today_folder.ipynb** FTP fetching lastest modificated file, downloading and salving it in today yyyy/mmmm/dd format created subfolders.
+**ftp_download_to_today_folder.ipynb** FTP fetching lastest modificated file, downloading and salving it in today yyyy/mmmm/dd format created subfolders. (Python)
 
-**mk_dir_date.ipynb** Make today yyyy/mmmm/dd format subfolders.
+**mk_dir_date.ipynb** Make today yyyy/mmmm/dd format subfolders. (Python)
+
+**ftp_fetching_getting.ipynb** Fetch lastest modificated data from given ftp server and download it. (Python)
