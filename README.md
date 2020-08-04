@@ -2,31 +2,12 @@
 
 Projects in the oven, look at them, they are so HOT!
 
-Implementation
-
-**Dra. Caroline Kroeff - Cirurgiã Plástica Youtube channel** [https://www.youtube.com/channel/UCGOtZAESEaqCSAu_uQYucSA] Set-ups on her Youtube channel. Branded and partner channel, Google Business and Monetization preparation. Growth Hacking and marketing business strategy. Content edition and publishing. *Personalized name Channel not avalible before 1000 subscribers. (Youtube)(Shotcut)(Gimp)
-
-Process Tools
-
-**Hyper-customized Handwriting tool for free using LibreOffice impress.** [https://telegra.ph/Hyper-customized-Handwriting-tool-for-free-using-LibreOffice-impress-06-04] + **preview.odp** (Impress)
 
 Photogrametry Studies
 
 **AliceVision_Photogrametry.ipynb**	is the AliceVision aplication for in-cloud GPU Photogrametry studies. (Python)
 
 **PIFuHD_Demo.ipynb** is the Facebook application for in-cloud GPU Photogrametry studies. (Python)
-
-
-Blockchain Studies
-
-**/Kryptotag** [https://github.com/fonsecajr/Kryptotag] KRYPTOTAG: ETIQUETA BASEADA NO PROTOCOLO ETHEREUM BLOCKCHAIN PARA ÓRTESES, PRÓTESES E MATERIAIS ESPECIAIS (OPME). Master in Science product (http://dcir.sites.unifesp.br/mp/index.php/discentes) under PHD Medical Doctor Professor Mrs. Lydia Masako Ferreira orientation and PHD Medical Doctor Mrs. Elaine Horibe Song co-orientation. Please, fell welcome to access the products: KRYPTOTAG: LABEL BASED ON BLOCKCHAIN ETHEREUM PROTOCOL FOR ORTHROS, PROSTHESES AND SPECIAL MATERIALS (OPME) thesis, in Portuguese. http://www.kryptotag.com.br and http://dcir.sites.unifesp.br/mp/images/imagens/teses/2018_07_MP_ANDRE-LUIZ-TORRES-FONSECA-JUNIOR.pdf). (Web backend)(html)(Java Script)(Solidity)
-
-
-Android Development Studies
-
-**/com.cura.altf.helloworld-v1.0** [https://github.com/fonsecajr/Projects/tree/master/com.cura.altf.helloworld-v1.0] Cura is a healthcare professional uberization app delivered as proof of concept and work. [https://apkpure.com/fr/cura-profissionais-da-sa%C3%BAde/com.cura.altf.helloworld] previus at Google PlayStore. 
-Find a healthcare professional near you now ❤ With just three steps, Cura will help you find the Healthcare Professional closest to you without you having to register. Our mission is to facilitate your meeting with your nearest Healthcare Professional without you having to ask around. ❤
-The project of André Luiz Torres da Fonseca Júnior is the result of a oriented project by Dr. Lydia Massako Ferreira, co-supervised by Dr. Elaine Horibe Song, presented to the Professional Master in Science, Technology and Management at the Escola Paulista de Medicina da Universidade Federal de São Paulo. All rights reserved. (Web backend)(SQL)(WordPress)(Html)
 
 
 Mathematics Studies
@@ -77,3 +58,25 @@ BigData Studies
 **mk_dir_date.ipynb** Make today yyyy/mmmm/dd format subfolders. (Python)
 
 **ftp_fetching_getting.ipynb** Fetch lastest modificated data from given ftp server and download it. (Python)
+
+
+Blockchain Studies
+
+**/Kryptotag** [https://github.com/fonsecajr/Kryptotag] KRYPTOTAG: ETIQUETA BASEADA NO PROTOCOLO ETHEREUM BLOCKCHAIN PARA ÓRTESES, PRÓTESES E MATERIAIS ESPECIAIS (OPME). Master in Science product (http://dcir.sites.unifesp.br/mp/index.php/discentes) under PHD Medical Doctor Professor Mrs. Lydia Masako Ferreira orientation and PHD Medical Doctor Mrs. Elaine Horibe Song co-orientation. Please, fell welcome to access the products: KRYPTOTAG: LABEL BASED ON BLOCKCHAIN ETHEREUM PROTOCOL FOR ORTHROS, PROSTHESES AND SPECIAL MATERIALS (OPME) thesis, in Portuguese. http://www.kryptotag.com.br and http://dcir.sites.unifesp.br/mp/images/imagens/teses/2018_07_MP_ANDRE-LUIZ-TORRES-FONSECA-JUNIOR.pdf). (Web backend)(html)(Java Script)(Solidity)
+
+
+Android Development Studies
+
+**/com.cura.altf.helloworld-v1.0** [https://github.com/fonsecajr/Projects/tree/master/com.cura.altf.helloworld-v1.0] Cura is a healthcare professional uberization app delivered as proof of concept and work. [https://apkpure.com/fr/cura-profissionais-da-sa%C3%BAde/com.cura.altf.helloworld] previus at Google PlayStore. 
+Find a healthcare professional near you now ❤ With just three steps, Cura will help you find the Healthcare Professional closest to you without you having to register. Our mission is to facilitate your meeting with your nearest Healthcare Professional without you having to ask around. ❤
+The project of André Luiz Torres da Fonseca Júnior is the result of a oriented project by Dr. Lydia Massako Ferreira, co-supervised by Dr. Elaine Horibe Song, presented to the Professional Master in Science, Technology and Management at the Escola Paulista de Medicina da Universidade Federal de São Paulo. All rights reserved. (Web backend)(SQL)(WordPress)(Html)
+
+
+Implementation
+
+**Dra. Caroline Kroeff - Cirurgiã Plástica Youtube channel** [https://www.youtube.com/channel/UCGOtZAESEaqCSAu_uQYucSA] Set-ups on her Youtube channel. Branded and partner channel, Google Business and Monetization preparation. Growth Hacking and marketing business strategy. Content edition and publishing. *Personalized name Channel not avalible before 1000 subscribers. (Youtube)(Shotcut)(Gimp)
+
+
+Process Tools
+
+**Hyper-customized Handwriting tool for free using LibreOffice impress.** [https://telegra.ph/Hyper-customized-Handwriting-tool-for-free-using-LibreOffice-impress-06-04] + **preview.odp** (Impress)
