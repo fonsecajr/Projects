@@ -2,6 +2,9 @@
 
 Projects in the oven, look at them, they are so HOT!
 
+Implementation
+
+**Dra. Caroline Kroeff - Cirurgiã Plástica Youtube channel** [https://www.youtube.com/channel/UCGOtZAESEaqCSAu_uQYucSA] Set-ups on her Youtube channel. Branded and partner channel, Google Business and Monetization preparation. Growth Hacking and marketing business strategy. Content edition and publishing. *Personalized name Channel not avalible before 1000 subscribers. (Youtube)
 
 Process Tools
 
