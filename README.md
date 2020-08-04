@@ -47,7 +47,7 @@ BigData Studies
 
 **FIIs_aovivo_△.ipynb**  Brazilian Reit options studies getting data from gsheet. (Gshet API)(Python)
 
-**FIIs.html** Brazilian Reit options studies in http aplication for Gsheet. [https://andrefonseca.epizy.com/fii/] (Web backend)(Html)(Gshet scraping method)
+**FIIs.html** [https://andrefonseca.epizy.com/fii/]Brazilian Reit options studies in http aplication for Gsheet. (Web backend)(Html)(Gshet scraping method)
 
 **Google_Drive_101.ipynb** Exercises on Gsheet conection and handling. (Gshet API)(Python)
 
@@ -58,6 +58,8 @@ BigData Studies
 **mk_dir_date.ipynb** Make today yyyy/mmmm/dd format subfolders. (Python)
 
 **ftp_fetching_getting.ipynb** Fetch lastest modificated data from given ftp server and download it. (Python)
+
+**Investidor Squad**[https://www.notion.so/andrefonseca/Investidor-Squad-2a4dd5e2c084472abaff7ac301b5095f] Investor colaborative bookmarks. (Notion)
 
 
 Blockchain Studies
