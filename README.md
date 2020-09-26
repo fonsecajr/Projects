@@ -82,3 +82,5 @@ Implementation
 Process Tools
 
 **Hyper-customized Handwriting tool for free using LibreOffice impress.** [https://telegra.ph/Hyper-customized-Handwriting-tool-for-free-using-LibreOffice-impress-06-04] + **preview.odp** (Impress)
+
+**How to download all pictures from an Instagram profile in 30 seconds (also includes igtv).** [https://telegra.ph/How-to-download-all-pictures-from-an-Instagram-profile-in-30-seconds-also-includes-igtv-09-26] (Python)
