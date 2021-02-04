@@ -3,6 +3,11 @@
 Projects in the oven, look at them, they are so HOT!
 
 
+Education
+
+**the Python Coding Education** https://www.notion.so/andrefonseca/the-Python-Coding-Education-5831937c99ae45349a3fedef08a26329 (be the Change)(Python)
+
+
 Photogrametry Studies
 
 **AliceVision_Photogrametry.ipynb**	is the AliceVision aplication for in-cloud GPU Photogrametry studies. (Python)
