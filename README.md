@@ -86,7 +86,7 @@ Implementation
 
 Process Tools
 
-**the very vagabond clever way to schedule a run into a colab jupyter notebook from an android phone** [https://telegra.ph/the-very-vagabond-clever-way-to-schedule-a-run-into-a-colab-jupyter-notebook-from-an-android-phone-03-14] or [https://www.reddit.com/r/Python/comments/m4nie8/the_very_vagabond_clever_way_to_schedule_a_run/] + **hello_world.macro** (Macrodroid)(Python)
+**the very vagabond clever way to schedule a run into a colab jupyter notebook from an android phone** [https://telegra.ph/the-very-vagabond-clever-way-to-schedule-a-run-into-a-colab-jupyter-notebook-from-an-android-phone-03-14] or [https://www.reddit.com/r/macrodroid/comments/m5aoa1/the_very_vagabond_clever_way_to_schedule_a_run/] + **hello_world.macro** (Macrodroid)(Python)
 
 **Hyper-customized Handwriting tool for free using LibreOffice impress.** [https://telegra.ph/Hyper-customized-Handwriting-tool-for-free-using-LibreOffice-impress-06-04] + **preview.odp** (Impress)
 
