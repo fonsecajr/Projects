@@ -78,12 +78,6 @@ Android Development Studies
 Find a healthcare professional near you now ❤ With just three steps, Cura will help you find the Healthcare Professional closest to you without you having to register. Our mission is to facilitate your meeting with your nearest Healthcare Professional without you having to ask around. ❤
 The project of André Luiz Torres da Fonseca Júnior is the result of a oriented project by Dr. Lydia Massako Ferreira, co-supervised by Dr. Elaine Horibe Song, presented to the Professional Master in Science, Technology and Management at the Escola Paulista de Medicina da Universidade Federal de São Paulo. All rights reserved. (Web backend)(SQL)(WordPress)(Html)
 
-
-Implementation
-
-**Dra. Caroline Kroeff - Cirurgiã Plástica Youtube channel** [https://www.youtube.com/c/dracarolinekroeffcirurgiaplastica] Set-ups on her Youtube channel. Branded and partner channel, Google Business and Monetization preparation. Growth Hacking and marketing business strategy. Content edition and publishing. (Youtube)(Shotcut)(Gimp)
-
-
 Process Tools
 
 **the very vagabond clever way to schedule a run into a colab jupyter notebook from an android phone** [https://telegra.ph/the-very-vagabond-clever-way-to-schedule-a-run-into-a-colab-jupyter-notebook-from-an-android-phone-03-14] or [https://www.reddit.com/r/macrodroid/comments/m5aoa1/the_very_vagabond_clever_way_to_schedule_a_run/] + **hello_world.macro** (Macrodroid)(Python)
